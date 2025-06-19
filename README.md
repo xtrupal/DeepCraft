@@ -1,3 +1,7 @@
+<div align="center">
+<img src="assets/deepcraft_logo.png" alt="DeepCraft Logo" width="300"/>
+</div>
+
 # Minecraft Item Image Dataset
 
 Welcome to the **first open-source Minecraft item image dataset**, starting with food items!
@@ -20,15 +24,18 @@ This repo fixes that — together, we’ll build a clean, structured dataset, or
 
 Images are organized like this:
 
-\`\`\`
+```plaintext
 dataset/
 └── food/
-├── apple/
-│ ├── apple_001.jpg
-├── golden_apple/
-├── carrot/
-└── golden_carrot/
-\`\`\`
+    ├── apple/
+    │   └── apple_001.jpg
+    ├── golden_apple/
+    │   └── golden_apple_001.jpg
+    ├── carrot/
+    │   └── carrot_001.jpg
+    └── golden_carrot/
+        └── golden_carrot_001.jpg
+```
 
 - `.jpg` format only
 - Filenames follow: `itemname_001.jpg`, `itemname_002.jpg`, etc.
@@ -51,7 +58,7 @@ Check [`CONTRIBUTING.md`](CONTRIBUTING.md) for full details.
 
 ## Let’s Build It Together
 
-This is just the start.  
+This is just the start.
 Pull requests open. Questions welcome.
 
 ---
