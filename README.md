@@ -1,8 +1,8 @@
+# DeepCraft
+
 <div align="center">
 <img src="assets/deepcraft_logo.png" alt="DeepCraft Logo" width="300"/>
 </div>
-
-# DeepCraft
 
 Welcome to the **first open-source Minecraft item image dataset**!
 
