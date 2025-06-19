@@ -2,11 +2,11 @@
 <img src="assets/deepcraft_logo.png" alt="DeepCraft Logo" width="300"/>
 </div>
 
-# Minecraft Item Image Dataset
+# DeepCraft
 
-Welcome to the **first open-source Minecraft item image dataset**, starting with food items!
+Welcome to the **first open-source Minecraft item image dataset**!
 
-This repo is made for machine learning, computer vision, and modding experiments where you need clean, labeled images of Minecraft items. Right now, we’re focusing on food — but the goal is to eventually cover **everything** (tools, blocks, mobs, etc.).
+This repo is made for machine learning, computer vision, and modding experiments where you need clean, labeled images of Minecraft items. Right now, we’re focusing on food but the goal is to eventually cover **everything** (tools, blocks, mobs, etc.).
 
 ---
 
@@ -16,7 +16,7 @@ Surprisingly, there’s no official image dataset for Minecraft items.
 
 If you’ve ever tried training a classifier or doing object detection on Minecraft stuff, you probably realized the same thing: you either rip textures manually or screenshot everything yourself.
 
-This repo fixes that — together, we’ll build a clean, structured dataset, organized and ready to go.
+This repo fixes that together, we’ll build a clean, structured dataset, organized and ready to go.
 
 ---
 
