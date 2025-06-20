@@ -4,7 +4,7 @@
 <img src="assets/deepcraft_logo.png" alt="DeepCraft Logo" width="300"/>
 </div>
 
-Welcome to the **first open-source Minecraft item image dataset**!
+## Welcome to the **first open-source Minecraft item image dataset**!
 
 This repo is built for machine learning, computer vision, and modding projects where you need clean, labeled images of Minecraft items. Right now, we’re focusing only on **food items**, but the bigger goal is to cover everything — tools, blocks, mobs, and more — across separate, dedicated repos.
 
