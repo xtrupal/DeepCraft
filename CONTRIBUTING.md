@@ -1,6 +1,6 @@
-# Contributing to the Minecraft Item Image Dataset
+# Contributing to the Deepcraft-Food
 
-Thank you for helping build the first open-source Minecraft item image dataset! This guide explains how to contribute images and ensure your contributions align with the project’s goals.
+Thank you for helping build the first open-source Minecraft Food item image dataset! This guide explains how to contribute images and ensure your contributions align with the project’s goals.
 
 ## How to Contribute
 
@@ -15,12 +15,15 @@ Thank you for helping build the first open-source Minecraft item image dataset! 
 3. **Add Images**
 
    - Place images in the correct folder under `/dataset/` (e.g., `/dataset/food/apple/`).
-   - If the item category or item doesn’t have a folder, create one (e.g., `/dataset/tools/wooden_sword/`).
+   - If the item category or item doesn’t have a folder, create one (e.g., `/dataset/food/Cookie/`).
    - Follow the [Image Guidelines](#image-guidelines) below.
 
 4. **Commit Your Changes**
 
-   - Use clear commit messages, e.g., `Add apple_002.jpg to food/apple` or `Create tools/wooden_sword folder with images`.
+   - Use clear, descriptive commit messages. Examples:
+     - `Add apple_002.jpg to food/apple`
+     - `Add golden_carrot images`
+     - `Create food/cookie folder with initial images`
 
 5. **Push to Your Fork**
 
@@ -43,8 +46,7 @@ To keep the dataset consistent and usable, please follow these rules:
   - Ensure items are centered with a transparent or solid background (preferably transparent).
   - Avoid watermarks, UI elements, or unrelated textures.
 - **Categories**:
-  - Place images in the correct folder (e.g., `/dataset/food/`, `/dataset/tools/`).
-  - Create new folders for new item types, following the pattern `/dataset/category/item/`.
+  - This repo is only for **food items**. Carefully place images inside `/dataset/food/<item_name>/`.
 
 ## Examples
 
