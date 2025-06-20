@@ -1,4 +1,4 @@
-# DeepCraft
+# DeepCraft - Food
 
 <div align="center">
 <img src="assets/deepcraft_logo.png" alt="DeepCraft Logo" width="300"/>
@@ -6,7 +6,12 @@
 
 Welcome to the **first open-source Minecraft item image dataset**!
 
-This repo is made for machine learning, computer vision, and modding experiments where you need clean, labeled images of Minecraft items. Right now, we’re focusing on food but the goal is to eventually cover **everything** (tools, blocks, mobs, etc.).
+This repo is built for machine learning, computer vision, and modding projects where you need clean, labeled images of Minecraft items. Right now, we’re focusing only on **food items**, but the bigger goal is to cover everything — tools, blocks, mobs, and more — across separate, dedicated repos.
+
+---
+
+> ⚠️ **Note:** This dataset is just getting started — currently includes a **small set of images** (4 food items: apple, golden apple, carrot, golden carrot).  
+> All images were collected manually using in-game screenshots. More contributions are welcome!
 
 ---
 
